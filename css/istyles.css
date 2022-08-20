@@ -20,7 +20,10 @@
     margin: 0px auto;
     background: #9575cd;
     color: floralwhite;
+ }
 
+ #reserve-header{
+   background-color: light;
  }
 
  address{
@@ -36,4 +39,30 @@
 
 .navbar{
     background-color: #512DA8;
+}
+
+
+
+#reserve-header{
+   background-color: #ebcc34;
+   color: white;
+}
+
+#theform{
+   width: 700px;
+   height: 300px;
+   margin-left: 100px;
+   
+}
+#theform button{
+   border-radius: 5px;
+   padding: 10%;
+   margin-left: 50px;
+}
+
+.tab-content{
+   border-left: 1px solid #ddd;
+   border-right: 1px solid #ddd;
+   border-bottom: 1px solid #ddd;
+   padding: 10px;
 }
